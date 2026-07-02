@@ -5,6 +5,16 @@
 ![React](https://img.shields.io/badge/React-18-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-8.x-orange)
 
+## 🌐 Live Deployment
+
+You can access the live application here:
+
+| Service | URL |
+| :--- | :--- |
+| **Frontend** | [Click Here](https://school-fee-management-system-five.vercel.app) |
+| **Backend API** | [Click Here](https://school-fee-management-system-xccm.onrender.com/api) |
+
+
 ## 📌 Description
 
 The **School Fee Management System** is a full-stack web application designed to streamline and automate fee-related operations in educational institutions.  
