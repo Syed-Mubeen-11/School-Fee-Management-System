@@ -16,6 +16,7 @@ public class CorsConfig {
         
         // Allow frontend origin
         config.addAllowedOrigin("http://localhost:5173");
+        config.addAllowedOrigin("https://school-fee-management-system-five.vercel.app");
         
         // Allow all headers
         config.addAllowedHeader("*");

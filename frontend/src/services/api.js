@@ -1,6 +1,7 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'http://localhost:8080/api';
+// Add /api at the end
+const API_BASE_URL = 'https://school-fee-management-system-xccm.onrender.com/api';
 
 const api = axios.create({
   baseURL: API_BASE_URL,
