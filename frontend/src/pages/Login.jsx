@@ -106,7 +106,7 @@ const Login = () => {
               <span className="px-2 py-1 bg-white/10 text-white/80 rounded-lg">Parent: parent1@test.com</span>
             </div>
             <p className="text-center text-white/40 text-xs mt-1">
-              Password: admin123 / acc123 / parent123
+              Password: admin123 / acc123 / parent1
             </p>
           </div>
         </div>
